@@ -56,12 +56,11 @@ Se finaliza el desafío elaborando un informe dentro del mismo notebook que resu
 ## **Archivos del Proyecto** 📂
 
 JSON: (JavaScript Object Notation) es un formato ligero para intercambiar datos de manera estructurada y fácil de leer. Utiliza pares clave-valor y estructuras anidadas como listas y objetos. Se emplea en APIs, almacenamiento de datos y configuración debido a su simplicidad y compatibilidad con múltiples lenguajes de programación.
-Archivos contienen las bases de datos de un conjunto de clientes separados por aquellos que abandonaron la empresa y otros que permanecen en la empresa para el análisis.
+El archivo contiene las bases de datos de un conjunto de clientes separados por aquellos que abandonaron la empresa y otros que permanecen en la empresa para el análisis.
 
 Jupyter Notebook: Proyecto desarrollado en Google Colaboratory, utilizando Python y bibliotecas como Pandas para realizar el análisis de datos.
-Lenguaje y Bibliotecas Utilizadas 💻
 
-**Lenguaje:**
+**Lenguaje y Bibliotecas Utilizadas:** 💻
 
 Python
 
